@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+virtualserver
+/static
+.DS_Store
