@@ -1,0 +1,9 @@
+#Se ha utilizado  Rest Framework para la creación de esta api Rest https://www.django-rest-framework.org/
+#Es necesario crear un usua rio a traves de manage.py createsuperuser
+#el login es obligatorio, para que genere el token de autentificación
+#Nada más iniciar te lleva a la página de login, metes el usuario y contraseña y te deriva http://127.0.0.1:8000/api/1.0/pedidos/
+#Desde la propia vista de rest framework podemos generar nuestro pedido
+#Si queremos crear un nuevo producto podemos ir a la vista http://127.0.0.1:8000/api/1.0/productos/ o bien desde el panel de admin
+#Tambien podemos crear usuarios nuevos desde http://127.0.0.1:8000/api/1.0/user/
+#Para que nos llegue la confirmación de nuestro pedido debemos acudir a la vista http://127.0.0.1:8000/mailing/
+#Con estas vistas podemos acceder a ellas a traves de postman o cualquier aplicación de terceros que nos permita hacer GET y POST
