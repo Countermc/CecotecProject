@@ -9,7 +9,7 @@ colorama==0.4.1
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.4
+Django==2.2.8
 django-crispy-forms==1.8.0
 django-rest-framework==0.1.0
 djangorestframework==3.10.3
